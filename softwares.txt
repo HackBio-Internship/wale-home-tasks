@@ -1,0 +1,6 @@
+- fastqc (quality control)
+- cutadapt (trimming sequence adapters)
+- fastp (trimming sequence adapters)
+- fastx (fastq_to_fasta : convert fastq to fasta)
+- Seqtk (convert fastq to fasta)
+- spades (assembles raw fastq into genome)
