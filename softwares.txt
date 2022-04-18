@@ -1,3 +1,4 @@
+- software (instruction)
 - fastqc (quality control)
 - cutadapt (trimming sequence adapters)
 - fastp (trimming sequence adapters)
