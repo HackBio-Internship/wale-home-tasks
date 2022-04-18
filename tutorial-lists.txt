@@ -1,0 +1,8 @@
+Genomics
+1. https://github.com/HackBio-Genomics-One-B/Genomics-One-B/blob/53978f5fc0b41f67e665df277d572e78266414fa/README.md
+2. https://github.com/662amandeep/Team-Genomics-One-A/blob/main/README.md
+3. https://github.com/Iffy27/genomics2c-hackbio
+4. https://github.com/Gyamps/Genomics-One-C/blob/main/Genomics-One-C.md
+5. https://github.com/Fredrick-Kakembo/Somatic-and-Germline-variant-Identification-from-Tumor-and-normal-Sample-Pairs/blob/main/README.md
+6. https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/microbial-variants/tutorial.html
+7. 
