@@ -5,3 +5,8 @@
 - fastx (fastq_to_fasta : convert fastq to fasta)
 - Seqtk (convert fastq to fasta)
 - spades (assembles raw fastq into genome)
+- bwa (assembles genomes)
+- samtools (manipulating sam/bam/cram files)
+- bedtools (manipulating bed files)
+- multiQC (assembling qualoity control reports)
+- 
