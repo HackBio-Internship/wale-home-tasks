@@ -22,3 +22,5 @@ Genomics
 21. https://www.biostars.org/p/335605/
 22. https://www.biostars.org/p/9473967/
 23. https://www.biostars.org/p/497723/
+24. https://www.biostars.org/p/334613/
+25. https://github.com/stephenturner/oneliners
