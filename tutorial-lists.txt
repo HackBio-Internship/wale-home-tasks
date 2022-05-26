@@ -7,4 +7,18 @@ Genomics
 6. https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/microbial-variants/tutorial.html
 7. https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/freebayes-dnaseq-workflow.html#gsc.tab=0
 8. https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/gatk-dnaseq-best-practices-workflow.html#gsc.tab=0
-9. 
+9. https://www.biostars.org/p/184551/
+10. https://www.biostars.org/p/227046/
+11. https://www.biostars.org/p/221530/
+12. https://www.biostars.org/p/213988/
+13. https://www.biostars.org/p/423666/
+14. https://www.biostars.org/p/111040/
+15. https://www.biostars.org/p/446290/
+16. https://www.biostars.org/p/439805/
+17. https://www.biostars.org/p/9515458/
+18. https://www.biostars.org/p/9493498/
+19. https://www.biostars.org/p/9490113/
+20. https://www.biostars.org/p/41951/
+21. https://www.biostars.org/p/335605/
+22. https://www.biostars.org/p/9473967/
+23. https://www.biostars.org/p/497723/
